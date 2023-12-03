@@ -1,4 +1,4 @@
-suitcase = {
+vacations = {
   "socks" => 4,
   "pants" => 1,
 }

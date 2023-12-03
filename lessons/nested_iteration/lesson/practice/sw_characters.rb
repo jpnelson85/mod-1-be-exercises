@@ -217,6 +217,8 @@ characters = [
 # ["Tatooine", "Naboo", "Alderaan" ... ]
 
 
+
+
 # Challenge #2
 
 # Get a list of the characters who have starships

@@ -6,11 +6,11 @@ class User
   attr_reader :name
   def initialize(name)
     @name = name
-    #binding.pry ##What is the @name property?
+    # binding.pry ##What is the @name property?
   end
 
   def say_hello
-    #binding.pry ##What will be output here?
+    # binding.pry ##What will be output here?
     "Hello, " + @name
   end
 
@@ -20,4 +20,6 @@ class User
       #binding.pry ## What is new_user? What properties does it have?
     end
   end
+
+  def self.say_hello
 end

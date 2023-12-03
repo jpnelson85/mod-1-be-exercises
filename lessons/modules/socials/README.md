@@ -28,6 +28,6 @@ Tests:
   1. Run the tests to check if the classes still work after your refactors
 
 ## Questions
-  1. What is similar/different between the two main classes?
-  2. What design principle(s) are we breaking? Prepare to explain.
+  1. What is similar/different between the two main classes? display method is different...rest is exactly the same
+  2. What design principle(s) are we breaking? Prepare to explain. 
   3. How might we use mixins to make our code better?

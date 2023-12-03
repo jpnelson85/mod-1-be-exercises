@@ -21,7 +21,6 @@ RSpec.describe Werewolf do
 
   it "can change" do
     werewolf = Werewolf.new("David","London")
-
     expect(werewolf.respond_to?).to eq(:change!)
   end
 

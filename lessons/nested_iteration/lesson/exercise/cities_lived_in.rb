@@ -10,7 +10,7 @@ cities_lived_in = {
 # Get a unique list of all of the cities that these humans have lived in  
 # ["Philadelphia", "Fort Collins", "Seattle", "Denver", "Santa Fe", "Portland", "Lansing", "Columbus", "Austin"]
 
-
+cities_lived_in.values
 
 
 # Problem #2: 
@@ -21,7 +21,7 @@ cities_lived_in = {
 # or
 # ["Michaela", "Mike", "Salvador"]
 
-
+cities_lived_in
 
 
 # Problem #3: 
