@@ -22,4 +22,6 @@ class User
   end
 
   def self.say_hello
+    
+  end
 end

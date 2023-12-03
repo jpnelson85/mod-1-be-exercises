@@ -1,4 +1,4 @@
-require './lib/user'
+require_relative './lib/user'
 require 'pry'
 
 RSpec.describe User do

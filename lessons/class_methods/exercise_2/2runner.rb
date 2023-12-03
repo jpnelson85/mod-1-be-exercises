@@ -1,4 +1,4 @@
-require './lib/user'
+require_relative './lib/user'
 require 'pry'
 
 ## Create one instance of a User, and say hello to that user.
@@ -15,3 +15,4 @@ users = [
 
 user_objects = User.create_multiple(users)
 #binding.pry ## What is user_objects?
+# user_objects is an array of User objects
